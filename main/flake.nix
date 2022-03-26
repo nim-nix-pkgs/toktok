@@ -11,6 +11,7 @@
   inputs.src-toktok-main.ref   = "refs/heads/main";
   inputs.src-toktok-main.owner = "openpeep";
   inputs.src-toktok-main.repo  = "toktok";
+  inputs.src-toktok-main.dir   = "";
   inputs.src-toktok-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
