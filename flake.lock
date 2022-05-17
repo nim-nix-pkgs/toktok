@@ -42,11 +42,11 @@
     "src-toktok-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1651413834,
-        "narHash": "sha256-l3+6Fv6pTGKd2J3D72Xl4cWnvOkK7wGjviawSc5LWs0=",
+        "lastModified": 1652211318,
+        "narHash": "sha256-b3UdFeMdaFG7/tQOo8HUlOlA5gTDuLgxF1kB4uF+Ihg=",
         "owner": "openpeep",
         "repo": "toktok",
-        "rev": "8c12b1343fb5edf8a5f4af078cb1a11629a87c6c",
+        "rev": "b390e63dd5ee84c70b90fcd339a50cc4a7e65334",
         "type": "github"
       },
       "original": {
@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1651918530,
-        "narHash": "sha256-bLlN8oaBbf191eSO9PnQVf9qYispSEaNdy2uoOMmtZA=",
+        "lastModified": 1652391660,
+        "narHash": "sha256-79eBr4CMFZN2gkLFPZsWLIynP76bhJ2qLbJUl0ymFPI=",
         "owner": "nim-nix-pkgs",
         "repo": "toktok",
-        "rev": "0b3d61f3144a2297f46732ce1177bd457429357a",
+        "rev": "e18726a625d4d745dcbac5baa76eda6e1a8162fc",
         "type": "github"
       },
       "original": {
