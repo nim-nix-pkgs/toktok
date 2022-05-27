@@ -42,11 +42,11 @@
     "src-toktok-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1652477796,
-        "narHash": "sha256-FrVsyQDYG25DzMwfXxDpZwCB3VpEAyiWCMqtbQtPZZA=",
+        "lastModified": 1653409627,
+        "narHash": "sha256-ByzDZQQVmE8Lc4c8ucGbzSE2sKTZPHfOkALPKpvGoiY=",
         "owner": "openpeep",
         "repo": "toktok",
-        "rev": "ad3b02600e0a931e48a5aa34ea16cf95152bcb7e",
+        "rev": "52505731ef747761f1259cd81788109f4a7d4e87",
         "type": "github"
       },
       "original": {
